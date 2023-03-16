@@ -362,6 +362,10 @@ svg:hover {
     
     .mobile-app__image {
         left: 20%;
+        width: 312px;
+        height: 642px;
+        top: -200px;
+
     }
 
     footer {
@@ -378,6 +382,10 @@ svg:hover {
 
     .social-media {
         align-self: center;
+    }
+
+    .main-content {
+        margin-top: 321px;
     }
 
 }
